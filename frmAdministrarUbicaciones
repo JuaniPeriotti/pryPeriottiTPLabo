@@ -1,0 +1,10 @@
+namespace pryPeriottiTPLabo
+{
+    public partial class frmAdministrarUbicaciones : Form
+    {
+        public frmAdministrarUbicaciones()
+        {
+            InitializeComponent();
+        }
+    }
+}
